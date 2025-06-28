@@ -6,7 +6,7 @@
 
   This website is fully responsive personal portfolio, <br />Responsive for all devices, built using HTML, CSS, and JavaScript.
 
-  <a href="https://codingstella.github.io/jack-portfolio/"><strong>➥ Live Demo</strong></a>
+
 
 </div>
 
@@ -17,3 +17,5 @@
 ![Jack Portfolio Desktop Demo](./readme-images/desktop.png "Desktop Demo")
 
 This project is **free to use** and does not contains any license.
+
+CodeNik (https://codenik.netlify.app/)
